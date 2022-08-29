@@ -1,4 +1,4 @@
-# SMS Server GO
+# Mediasoup GO
 > 这是一个对mediasoup worker的golang封装
 
 ## 【单进程】架构模式
